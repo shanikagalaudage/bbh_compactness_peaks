@@ -7,8 +7,8 @@ With the growing number of detections of binary black hole mergers, we are begin
 
 ## Repository contents
 * [posterior samples](./posterior_samples) - the samples from the event posteriors read in for the population analysis
-* [hyper posterior samples](./hyperposterior_samples) - samples for the population analysis using the _Extended_ spin model
-* [plots](./plots) - contains the figures from the publication and additional plots
+* [hyperposterior samples](./hyperposterior_samples) - samples for the population analysis using the _Extended_ spin model
+* [figures](./figures) - contains the figures from the publication and additional plots
 
 If you have any questions about the data and/or results please contact me via email at sgalaudage@gmail.com
 
@@ -19,7 +19,7 @@ Two subpopulations for spin disribution of merging binary black holes.
 2. The peaked components in primary mass distribution have mass ratio distributions that prefer $q\sim1$
 3. There is some suppport for the powerlaw and peaked components to have diferent spin distributions. The peaked components have spin distribution consistent with isolated evolution. The powerlaw component has more support for more rapidly spinning, misaligned spins than the peaked component, possibly from dynmically formed populations.
 
-The _Compactness Peaks_ model is significantly favoured (by a $\log_10$ Bayes factor of ~4.63) compared to the _Multi Peak_ model. However, there is no _clear_ evidence for gap in component masses between $10-15 M_\odot$
+The _Compactness Peaks_ model is significantly favoured (by a $\log_{10}$ Bayes factor of ~4.63) compared to the _Multi Peak_ model. However, there is no _clear_ evidence for gap in component masses between $10-15 M_\odot$
 
 ## Other key publications relevant to this study
 
