@@ -21,8 +21,8 @@ Two subpopulations for spin disribution of merging binary black holes.
 
 The _Compactness Peaks_ model is significantly favoured (by a $\log_{10}$ Bayes factor of ~4.63) compared to the _Multi Peak_ model. However, there is no _clear_ evidence for gap in component masses between $10-15 M_\odot$
 
-## Other key publications relevant to this study
+## Other publications that may be of interest
 
-[Schneider et al. 2023](https://arxiv.org/abs/2305.02380): Bimodal black-hole mass distribution and chirp masses of binary black-hole mergers
-[Adamcewicz et al. 2024](https://arxiv.org/abs/2406.11111): No evidence for a dip in the binary black hole mass spectrum
+- [Schneider et al. 2023](https://arxiv.org/abs/2305.02380): Bimodal black-hole mass distribution and chirp masses of binary black-hole mergers
+- [Adamcewicz et al. 2024](https://arxiv.org/abs/2406.11111): No evidence for a dip in the binary black hole mass spectrum
 
